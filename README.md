@@ -12,9 +12,8 @@ A dynamic topic browser with real-time search filtering, designed for a Catalogu
 ## Setup
 
 1. Clone the repo:
-   ```bash
-   git clone https://github.com/yourusername/topic-search.git
-   ```
+    git clone https://github.com/dsruthi17/TopicSearch.git
+  
 
 <!-- # Getting Started with Create React App
 
