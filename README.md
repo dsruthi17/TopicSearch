@@ -1,4 +1,22 @@
-# Getting Started with Create React App
+# TopicSearch - React Component
+
+A dynamic topic browser with real-time search filtering, designed for a Catalogue Management System.
+
+## Features
+
+- Search-as-you-type functionality (case-insensitive)
+- Clean, responsive card layout for topics
+- Handles empty states with "No topics found" message
+- Sample dataset with 7 topics across 4 categories
+
+## Setup
+
+1. Clone the repo:
+   ```bash
+   git clone https://github.com/yourusername/topic-search.git
+   ```
+
+<!-- # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -67,4 +85,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 ### `npm run build` fails to minify
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify) -->
