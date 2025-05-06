@@ -6,12 +6,12 @@ A responsive topic browser with real-time search capabilities, designed for mode
 
 ## Key Features
 
-> > > Instant Search: Filters topics dynamically as you type (case-insensitive).
-> > > Default Display: Shows all topics when the search bar is empty.
-> > > Responsive Design: Grid-based layout that adapts to all screen sizes.
-> > > Category Tagging: Topics are categorized for better organization.
-> > > Empty State Handling: Displays a clear message when no topics match the search term.
-> > > Performance Optimized: Uses efficient filtering to ensure a smooth experience.
+- Instant Search: Filters topics dynamically as you type (case-insensitive).
+- Default Display: Shows all topics when the search bar is empty.
+- Responsive Design: Grid-based layout that adapts to all screen sizes.
+- Category Tagging: Topics are categorized for better organization.
+- Empty State Handling: Displays a clear message when no topics match the search term.
+- Performance Optimized: Uses efficient filtering to ensure a smooth experience.
 
 ## Technologies Used
 
